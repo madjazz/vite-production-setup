@@ -2,18 +2,9 @@
 
 * Author: Timo Klingler
 * Date of creation: 2022-05-12
-* Email: timo.klingler@ik.me
-* License: [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/)
+* Last update: 2022-05-12
 
-## A Note To Potential Users
-
-This guide, together with the repository, was made public in case someone else struggled with the same issues as I did when wanting to use `vite` for a project. It consequently describes the setup process which catered to my own personal needs and might not be suited to your specific usecase. Please feel free to make any adjustments to this guide and submit a pull request if you are convinced that it would make it more useful for you or a general public.
-
-## A Note on Licensing
-
-The license was chosen to be as unrestrictive as possible. Do with the repo what you want and do not attribute me for anything please.
-
-## Installation From Scratch with `yarn`
+## Chapter 1: Installation From Scratch with `yarn`
 
 This installation guide focuses on installing `vite` from scratch with `yarn`. If you would rather use a template, follow the official installation guide[^1] of `vite`.
 
