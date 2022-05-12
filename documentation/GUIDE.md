@@ -92,14 +92,3 @@ This installation guide focuses on installing `vite` from scratch with `yarn`. I
 [^1]:[Vite Development Team: Scaffolding Your First Vite Project](https://vitejs.dev/guide/#scaffolding-your-first-vite-project), last accessed on 2022-05-12
 [^2]: [Fritz, Chris (2014): The Simplest Possible HTML Template](https://gist.github.com/madjazz/5e7bffd7f5e058110515327888136998), last accessed on 2022-05-12
 
-  <a rel="license"
-     href="http://creativecommons.org/publicdomain/zero/1.0/">
-    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
-  </a>
-  <br />
-To the extent possible under law, <a rel="dct:publisher" href="https://github.com/madjazz/vite-production-setup">
-    <span property="dct:title">Timo Klingler</span></a> has waived all copyright and related or neighboring rights to <span property="dct:title">Vite Production Setup</span>. This work is published from:
-<span property="vcard:Country" datatype="dct:ISO3166"
-      content="CH" about="https://github.com/madjazz/vite-production-setup" Switzerland</span>.
-</p>
-

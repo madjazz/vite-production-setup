@@ -2,6 +2,7 @@
 
 * Author: Timo Klingler
 * Date of creation: 2022-05-12
+* Last updated: 2022-05-12
 * License: [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/)
 
 ## A Note To Potential Users
@@ -15,3 +16,13 @@ The license was chosen to be as unrestrictive as possible. Please note that this
 ## Documentation
 
 The changelog and step-by-step guide can be found in the documentation folder. For each chapter of the guide there exists a separate branch which was periodically forked from the `master` branch.
+
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+To the extent possible under law, <a rel="dct:publisher" href="https://github.com/madjazz/vite-production-setup">
+    <span property="dct:title">Timo Klingler</span></a> has waived all copyright and related or neighboring rights to <span property="dct:title">Vite Production Setup</span>. This work is published from:
+<span property="vcard:Country" datatype="dct:ISO3166" content="CH" about="https://github.com/madjazz/vite-production-setup"> Switzerland</span>.
+</p>
