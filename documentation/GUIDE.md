@@ -32,13 +32,11 @@ This installation guide focuses on installing `vite` from scratch with `yarn`. I
    {
      "name": "vite-production-setup",
      "packageManager": "yarn@3.2.0",
-     // new
      "scripts": {
        "dev": "vite",
        "build": "vite build",
        "preview": "vite preview"
      },
-     //
      "devDependencies": {
        "vite": "2.9.9"
      }
